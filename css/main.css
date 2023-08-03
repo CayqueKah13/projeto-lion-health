@@ -511,6 +511,8 @@
     .agency-feature-1 { background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0, 0.5)),url('../images/agency/image-box-1.png'); }
     .agency-feature-2 { background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0, 0.5)),url('../images/agency/image-box-2.png'); }
     .agency-feature-3 { background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0, 0.5)),url('../images/agency/image-box-3.png'); }
+    .agency-feature-4 { background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0, 0.5)),url('../images/agency/image-box-4.png'); }
+    .agency-feature-5 { background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0, 0.5)),url('../images/agency/image-box-5.png'); }
 
 
     .media-box-area { display: table-cell;}
