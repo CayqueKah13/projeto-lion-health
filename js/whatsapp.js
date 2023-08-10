@@ -13,7 +13,7 @@ $(document).on("click", "#send-it", function() {
         )
       )
         var d = "whatsapp://send";
-      var g = d + "?phone=+5571984407827" + e + f;
+      var g = d + "?phone=+5511949210188" + e + f;
       window.open(g, "_blank");
     }
   }),
