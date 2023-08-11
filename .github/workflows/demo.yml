@@ -1,7 +1,7 @@
 on: 
   push:
     branches:
-      - main
+      - demo
 name: 🚀 Deploy website on push
 jobs:
   web-deploy:
@@ -15,5 +15,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
           server: ftp.lionhealth.com.br
-          username: ${{ secrets.ftp_username }}
-          password: ${{ secrets.ftp_password }}
+          username: ${{ secrets.demo_username }}
+          password: ${{ secrets.demo_password }}
