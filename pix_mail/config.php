@@ -1,15 +1,15 @@
 <?php
 	$mail_type = "ce";
 	//-----------------------------------------------------------------------------------------
-    $to_Email       = "youremail@gmail.com"; //Replace with recipient email address
-    $subject        = 'An email from demo MEGAPACK contact form'; //Subject line for emails
+    $to_Email       = "chameocayque@gmail.com"; //Replace with recipient email address
+    $subject        = 'An email from demo Lion Health contact form'; //Subject line for emails
 
     // your recaptcha secret key
     $secret = "";      // Add your reCAPTCHA secret key
     //----------------------------------------------------------    -------------------------------
 
     // Language
-    $language = "EN";
+    $language = "pt-BR";
 
 
 
